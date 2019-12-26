@@ -1,7 +1,7 @@
 GITHUB_TOKENS = ['9ae274928d516eb52322730d314832459e0c48a8',
-                 '2fb854bd35d6df72209209c460104054b55046c9',
-                 '328b95ba488a5506791dc79e8b87c81511aaaddf',
-                 'ea573421400540158efb2b749d93d32abe21d2e0',
+                 '6323315c538e987e0e2410c3015d9eb337b5681a',
+                 '078cbf927a81aff45427656ac766a5c309a7c5fe',
+                 '310ea9990b64b21028a8d6c2d60a03d9e168ee68',
                  '4a4db085e8812a5f60bffae7b9c6745112e67d50']
 GITHUB_URL_FILE = 'rawGitUrls.txt'
 GITHUB_API_URL = 'https://api.github.com/search/code?q='
